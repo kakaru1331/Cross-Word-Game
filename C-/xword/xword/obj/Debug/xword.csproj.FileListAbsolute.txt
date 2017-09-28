@@ -1,0 +1,12 @@
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\bin\Debug\xword.exe.config
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\bin\Debug\xword.exe
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\bin\Debug\xword.pdb
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.Form1.resources
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.Properties.Resources.resources
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.csproj.GenerateResource.Cache
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.exe
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.pdb
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.Clues.resources
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\obj\Debug\xword.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.Daniel-PC\source\repos\xword\xword\bin\Debug\Puzzles\puzzle_1.pzl
